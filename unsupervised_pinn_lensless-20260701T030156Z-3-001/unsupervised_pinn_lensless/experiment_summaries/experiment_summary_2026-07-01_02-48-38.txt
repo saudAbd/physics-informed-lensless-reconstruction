@@ -1,0 +1,21 @@
+Unsupervised PINN Lensless Reconstruction - Experiment Summary
+======================================================================
+
+Saved at: 2026-07-01_02-48-38
+
+N: 512
+dx: 6.5e-06
+lam: 5.32e-07
+z0: 0.1
+z1: 0.1
+z2: 0.12000000000000001
+support: shape=torch.Size([512, 512]), dtype=torch.float32
+I_clean: shape=torch.Size([512, 512]), dtype=torch.float32
+I1: shape=torch.Size([512, 512]), dtype=torch.float32
+I2: shape=torch.Size([512, 512]), dtype=torch.float32
+I_meas1: shape=torch.Size([512, 512]), dtype=torch.float32
+I_meas2: shape=torch.Size([512, 512]), dtype=torch.float32
+raw_amp: shape=torch.Size([512, 512]), dtype=torch.float32
+raw_amp_tv: shape=torch.Size([512, 512]), dtype=torch.float32
+raw_amp_bound: shape=torch.Size([512, 512]), dtype=torch.float32
+u_obj: shape=torch.Size([512, 512]), dtype=torch.complex64

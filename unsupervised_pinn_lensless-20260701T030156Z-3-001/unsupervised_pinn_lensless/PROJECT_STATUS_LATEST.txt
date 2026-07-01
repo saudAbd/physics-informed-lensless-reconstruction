@@ -1,0 +1,27 @@
+
+Project: Unsupervised Physics-Informed Neural Reconstruction for Lensless/Holographic Imaging
+
+Saved on: 2026-07-01_02-57-24
+
+Current saved code:
+- src/prototype_core.py
+
+Current completed experiment components:
+1. Fresnel FFT digital twin
+2. Tilt misalignment
+3. Distance-error experiment
+4. Noise robustness
+5. Residual-vs-misalignment diagnostics
+6. Single-plane unsupervised inversion
+7. Multi-distance inversion
+8. Support prior
+9. Amplitude-only prior
+10. TV regularisation
+11. Bounded sigmoid amplitude prior
+12. Ablation comparison table and figures
+
+Next recommended work:
+- create experiments/run_ablation.py
+- save all figures with explicit names
+- create README.md
+- convert notebook into GitHub-ready repository
